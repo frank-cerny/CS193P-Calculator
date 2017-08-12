@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var historyLabel: UILabel!
     
     /*
-     User in the middle of typing keeps track of whether or not a user is in the middle of a computation, and when they finish the cycle starts over, so 5....still typing -  DONE typing 6... still typing.... = DONE typing
+     User in the middle of typing keeps track of whether or not a user is in the middle of a computation, and when they finish the cycle starts over, so 5....stil typing -  DONE typing 6... still typing.... = DONE typing
     */
     
     var userIsInMiddleOfTyping = false
